@@ -1,0 +1,6 @@
+D:\swathi\Casestudy\Project\bin\Debug\Project.exe.config
+D:\swathi\Casestudy\Project\bin\Debug\Project.exe
+D:\swathi\Casestudy\Project\bin\Debug\Project.pdb
+D:\swathi\Casestudy\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\swathi\Casestudy\Project\obj\Debug\Project.exe
+D:\swathi\Casestudy\Project\obj\Debug\Project.pdb
